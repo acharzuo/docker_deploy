@@ -40,8 +40,8 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 
 * 更新网站
 直接修改本地目录下的website中的文件即可
-
-
+[http://localhost:32768/index_v2.html](http://localhost:32768/index_v2.html)
+![静态网站显示](images/website_v2.png)
 ## 常见问题
 
 ### Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
